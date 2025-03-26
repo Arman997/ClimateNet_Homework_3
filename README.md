@@ -16,6 +16,6 @@ python3 -m venv **your_venv_name**
 
 3. then to activate your virtual environment type this command
 
-```
+```sh
 source **your_venv_name**/bin/activate 
 ```
