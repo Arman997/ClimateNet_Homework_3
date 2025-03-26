@@ -14,3 +14,8 @@ https://github.com/Arman997/ClimateNet_Homework_3/tree/main
 python3 -m venv **your_venv_name**
 ```
 
+3. then to activate your virtual environment type this command
+
+```
+source **your_venv_name**/bin/activate 
+```
