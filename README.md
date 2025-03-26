@@ -19,3 +19,9 @@ python3 -m venv **your_venv_name**
 ```sh
 source **your_venv_name**/bin/activate 
 ```
+
+4. then install **requirements.txt** file to install all the libraries that I used
+
+```sh
+pip3 install -r requirements.txt
+```
