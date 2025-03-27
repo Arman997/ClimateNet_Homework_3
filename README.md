@@ -20,7 +20,7 @@ You can read more about these technologies in the **[Wiki](https://github.com/Ar
 1. Clone the repository:
 
 ```sh
-https://github.com/Arman997/ClimateNet_Homework_3/tree/main
+git@github.com:Arman997/ClimateNet_Homework_3.git
 ```
 
 2. After cloning go to the folder and type this command to create your **venv**
