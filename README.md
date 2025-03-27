@@ -3,7 +3,7 @@
 ## about this project
 
 This is a small Python Flask project created for learning how **Nginx** and **Gunicorn** work.  
-You can read more about these technologies in the **[Wiki](https://github.com/Arman997/ClimateNet_Homework_3/wiki)**.
+You can read more about these technologies in the **[Wiki](https://github.com/Arman997/ClimateNet_Homework_3/wiki/Setup-Gunicorn)**.
 
 ### Technologies Used:  
 
