@@ -1,4 +1,19 @@
-# Flask project
+# ClimateNet_Homework3-4_Flask + Nginx + Gunicorn Study Project 
+
+## about this project
+
+This is a small Python Flask project created for learning how **Nginx** and **Gunicorn** work.  
+You can read more about these technologies in the **[Wiki]([https://github.com/your-repo/wiki](https://github.com/Arman997/ClimateNet_Homework_3/wiki))**. 
+
+### Technologies Used:  
+
+- **Python Libraries:**  
+  - `Flask`  
+  - `render_template`  
+  - `Response`  
+  - `request`  
+  - `redirect`  
+  - `url_for`
 
 ## installation
 
